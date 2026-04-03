@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1775205841535,
+    "description" : "Тестовый поток",
+    "identifier" : "Test1",
+    "lastModifiedTimestamp" : 1775205841535,
+    "name" : "Test1",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
