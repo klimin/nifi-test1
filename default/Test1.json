@@ -167,8 +167,8 @@
       "name" : "PublishKafka",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : -184.0,
-        "y" : -72.0
+        "x" : -152.0,
+        "y" : -64.0
       },
       "properties" : {
         "compression.type" : "none",
@@ -361,8 +361,8 @@
       "name" : "GenerateFlowFile",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : -184.0,
-        "y" : -312.0
+        "x" : -176.0,
+        "y" : -328.0
       },
       "properties" : {
         "File Size" : "1000b",
@@ -443,6 +443,6 @@
   "snapshotMetadata" : {
     "author" : "admin",
     "flowIdentifier" : "Test1",
-    "timestamp" : 1775205842683
+    "timestamp" : 1775205915492
   }
 }
